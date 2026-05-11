@@ -1,0 +1,51 @@
+loan_id,customer_id,age,region,employment_status,annual_income_gbp,loan_amount_gbp,loan_term_months,interest_rate_pct,loan_type,loan_status,issue_date,credit_score,monthly_payment_gbp,total_paid_gbp,outstanding_balance_gbp,days_past_due,default_flag
+L001,C001,34,London,Employed,52000,15000,36,8.5,Personal,Active,2022-03-15,720,472,11328,3672,0,0
+L002,C002,28,South East,Employed,38000,8000,24,9.2,Personal,Active,2022-06-01,680,368,8832,0,0,0
+L003,C003,45,Midlands,Self-Employed,65000,25000,60,7.8,Business,Active,2021-11-20,750,504,22176,2824,0,0
+L004,C004,52,North West,Employed,44000,12000,36,10.1,Personal,Defaulted,2021-08-10,590,390,7020,4980,120,1
+L005,C005,39,Yorkshire,Employed,55000,20000,48,8.9,Personal,Active,2022-01-05,710,497,19880,120,0,0
+L006,C006,31,London,Employed,72000,30000,60,7.5,Mortgage,Active,2021-05-15,780,601,27045,2955,0,0
+L007,C007,27,South East,Student,18000,5000,24,12.5,Personal,Late,2022-09-01,620,236,2832,2168,45,0
+L008,C008,48,Wales,Employed,39000,10000,36,9.8,Personal,Active,2022-04-20,670,321,10272,0,0,0
+L009,C009,36,Scotland,Employed,47000,18000,48,8.7,Personal,Active,2022-02-10,700,448,17920,80,0,0
+L010,C010,43,Midlands,Employed,58000,22000,60,8.1,Business,Defaulted,2021-07-01,600,447,8046,13954,180,1
+L011,C011,29,North West,Employed,32000,7500,24,11.2,Personal,Active,2022-07-15,645,351,8424,0,0,0
+L012,C012,55,London,Employed,88000,40000,60,7.2,Mortgage,Active,2021-03-01,800,793,35685,4315,0,0
+L013,C013,41,Yorkshire,Self-Employed,75000,35000,60,8.4,Business,Active,2021-10-15,740,718,29538,5462,0,0
+L014,C014,33,South East,Employed,43000,11000,36,9.5,Personal,Late,2022-08-20,630,354,4956,6044,60,0
+L015,C015,50,Wales,Employed,36000,9000,36,10.5,Personal,Active,2022-05-10,660,293,9376,0,0,0
+L016,C016,26,Scotland,Employed,28000,6000,24,13.0,Personal,Defaulted,2022-01-20,565,286,3432,2568,200,1
+L017,C017,38,Midlands,Employed,49000,16000,48,8.6,Personal,Active,2022-03-01,705,397,15880,120,0,0
+L018,C018,44,London,Employed,95000,50000,60,7.0,Mortgage,Active,2021-01-15,820,1163,52335,0,0,0
+L019,C019,31,North West,Employed,41000,10500,36,9.9,Personal,Active,2022-06-25,665,337,12132,0,0,0
+L020,C020,47,Yorkshire,Self-Employed,62000,28000,60,8.2,Business,Active,2021-12-01,730,610,24400,3600,0,0
+L021,C021,35,South East,Employed,53000,14000,36,8.8,Personal,Active,2022-04-05,715,443,17720,0,0,0
+L022,C022,29,London,Employed,67000,25000,48,8.0,Personal,Active,2022-02-28,760,610,24400,600,0,0
+L023,C023,53,Wales,Employed,42000,11500,36,10.2,Personal,Late,2022-07-01,605,374,5610,5890,75,0
+L024,C024,37,Scotland,Employed,50000,17000,48,8.8,Personal,Active,2022-01-15,695,421,16840,160,0,0
+L025,C025,42,Midlands,Employed,57000,21000,60,8.3,Business,Active,2021-09-20,735,517,20680,320,0,0
+L026,C026,30,London,Employed,71000,32000,60,7.6,Mortgage,Active,2021-04-10,785,641,28845,3155,0,0
+L027,C027,46,North West,Employed,45000,13000,36,9.6,Personal,Defaulted,2021-06-15,595,421,7578,5422,150,1
+L028,C028,32,Yorkshire,Employed,37000,8500,24,11.8,Personal,Active,2022-08-01,640,400,9600,0,0,0
+L029,C029,40,South East,Self-Employed,80000,45000,60,7.9,Business,Active,2021-08-20,755,910,36400,8600,0,0
+L030,C030,56,Wales,Employed,35000,8000,36,10.8,Personal,Active,2022-05-25,650,261,9396,0,0,0
+L031,C031,27,Scotland,Student,17000,4500,24,14.0,Personal,Late,2022-10-01,555,219,2190,2310,30,0
+L032,C032,43,London,Employed,62000,26000,60,7.7,Mortgage,Active,2021-11-05,770,621,27945,0,0,0
+L033,C033,38,Midlands,Employed,48000,15500,48,8.7,Personal,Active,2022-03-20,703,382,15280,220,0,0
+L034,C034,33,North West,Employed,42500,11000,36,9.7,Personal,Active,2022-07-10,660,353,14120,0,0,0
+L035,C035,49,Yorkshire,Employed,53000,19000,60,8.4,Personal,Active,2021-12-15,720,468,18720,280,0,0
+L036,C036,25,South East,Employed,31000,7000,24,12.8,Personal,Defaulted,2022-02-01,560,283,3396,3604,220,1
+L037,C037,41,London,Employed,83000,38000,60,7.3,Mortgage,Active,2021-02-20,795,857,38565,0,0,0
+L038,C038,36,Wales,Employed,44000,12500,36,9.6,Personal,Active,2022-04-15,668,404,16160,0,0,0
+L039,C039,44,Scotland,Self-Employed,70000,32000,60,8.0,Business,Active,2021-10-01,745,653,26120,5880,0,0
+L040,C040,31,Midlands,Employed,39500,9500,24,11.5,Personal,Active,2022-08-15,648,444,10656,0,0,0
+L041,C041,54,London,Employed,91000,45000,60,7.1,Mortgage,Active,2021-01-10,815,1040,46800,0,0,0
+L042,C042,28,North West,Employed,33500,7800,24,11.9,Personal,Late,2022-09-15,625,348,4872,2928,40,0
+L043,C043,39,Yorkshire,Employed,51000,17500,48,8.8,Personal,Active,2022-02-20,708,433,17320,180,0,0
+L044,C044,46,South East,Employed,59000,23000,60,8.1,Business,Active,2021-11-25,732,563,22520,480,0,0
+L045,C045,34,London,Employed,55000,20000,48,8.6,Personal,Active,2022-01-25,718,494,19760,240,0,0
+L046,C046,29,Wales,Employed,34000,8200,24,12.2,Personal,Active,2022-06-10,632,387,9288,0,0,0
+L047,C047,48,Scotland,Employed,46000,14000,36,9.9,Personal,Defaulted,2021-09-05,580,452,8136,5864,165,1
+L048,C048,35,Midlands,Employed,47500,15500,48,8.7,Personal,Active,2022-03-10,702,383,15320,180,0,0
+L049,C049,52,London,Employed,76000,35000,60,7.4,Mortgage,Active,2021-04-25,790,789,35505,0,0,0
+L050,C050,30,North West,Employed,36500,9000,36,10.4,Personal,Active,2022-07-20,655,294,11760,0,0,0
