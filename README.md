@@ -42,5 +42,6 @@ and regions had the highest default risk.
 
 ## Author
 Apoorva Tomar
-[LinkedIn Profile]https://www.linkedin.com/in/apoorvatomar/
+[LinkedIn Profile]
+(https://www.linkedin.com/in/apoorvatomar/)
 [Tableau Dashboard](https://public.tableau.com/app/profile/apoorva.tomar/viz/NorthBridgeFinanceLoanPortfolioDashboard/Dashboard1)
